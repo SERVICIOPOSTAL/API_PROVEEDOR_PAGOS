@@ -1,0 +1,507 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\FUENTES_SPE\\WEBAPISPE\\WebApi\\Servicios\\WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj",
+        "projectName": "CapaDatosBM",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj",
+        "projectName": "CapaEntidadBM",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj",
+        "projectName": "CapaNegocioBM",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj",
+        "projectName": "CapaDatosEnviosSPE",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj",
+        "projectName": "CapaEntidadEnviosSPE",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj",
+        "projectName": "CapaNegocioEnviosSPE",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj",
+        "projectName": "CapaDatosIPS",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj",
+        "projectName": "CapaEntidadIPS",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj",
+        "projectName": "CapaNegocioIPS",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj",
+        "projectName": "CapaDatosOperaciones",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj",
+        "projectName": "CapaDtoOperaciones",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj",
+        "projectName": "CapNegocioOperaciones",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaDatosTracking\\CapaDatosTracking.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaDatosTracking\\CapaDatosTracking.csproj",
+        "projectName": "CapaDatosTracking",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaDatosTracking\\CapaDatosTracking.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj",
+        "projectName": "CapaEntidadTracking",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaNegocioTracking\\CapaNegocioTracking.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaNegocioTracking\\CapaNegocioTracking.csproj",
+        "projectName": "CapaNegocioTracking",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaNegocioTracking\\CapaNegocioTracking.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaDatosTracking\\CapaDatosTracking.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaDatosTracking\\CapaDatosTracking.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj",
+        "projectName": "Util",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\WebApi\\Servicios\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\WebApi\\Servicios\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\WebApi\\Servicios\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "outputPath": "C:\\FUENTES_SPE\\WEBAPISPE\\WebApi\\Servicios\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaNegocioTracking\\CapaNegocioTracking.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Tracking\\CapaNegocioTracking\\CapaNegocioTracking.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\Utilitarios\\Util\\Util.csproj"
+              },
+              "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj",
+        "projectName": "CapaEntidadZP",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj",
+        "projectName": "CapaNegocioZP",
+        "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\WEBAPISPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

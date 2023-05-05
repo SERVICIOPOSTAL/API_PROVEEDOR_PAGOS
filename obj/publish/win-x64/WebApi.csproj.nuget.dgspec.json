@@ -1,0 +1,678 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\FUENTES_SPE\\MOD_SERVICIOS_WEB_APIv2022_1\\Servicios\\WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaDatosBM\\CapaDatosBM.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaDatosBM\\CapaDatosBM.csproj",
+        "projectName": "CapaDatosBM",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaDatosBM\\CapaDatosBM.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaDatosBM\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj",
+        "projectName": "CapaEntidadBM",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaNegocioBM\\CapaNegocioBM.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaNegocioBM\\CapaNegocioBM.csproj",
+        "projectName": "CapaNegocioBM",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaNegocioBM\\CapaNegocioBM.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaDatosBM\\CapaDatosBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaDatosBM\\CapaDatosBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_CONSUMO_WS_OPERADORv2022_1\\ServiciosApi\\ServiciosApi.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_CONSUMO_WS_OPERADORv2022_1\\ServiciosApi\\ServiciosApi.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_CONSUMO_WS_OPERADORv2022_1\\ServiciosApi\\ServiciosApi.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_CONSUMO_WS_OPERADORv2022_1\\ServiciosApi\\ServiciosApi.csproj",
+        "projectName": "ServiciosApi",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_CONSUMO_WS_OPERADORv2022_1\\ServiciosApi\\ServiciosApi.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\DLL_CONSUMO_WS_OPERADORv2022_1\\ServiciosApi\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj",
+        "projectName": "CapaDatosEnviosSPE",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaDatosEnviosSPE\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj",
+        "projectName": "CapaEntidadEnviosSPE",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj",
+        "projectName": "CapaNegocioEnviosSPE",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaDatosIPS\\CapaDatosIPS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaDatosIPS\\CapaDatosIPS.csproj",
+        "projectName": "CapaDatosIPS",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaDatosIPS\\CapaDatosIPS.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaDatosIPS\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaEntidadIPS\\CapaEntidadIPS.csproj",
+        "projectName": "CapaEntidadIPS",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaEntidadIPS\\CapaEntidadIPS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaNegocioIPS\\CapaNegocioIPS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaNegocioIPS\\CapaNegocioIPS.csproj",
+        "projectName": "CapaNegocioIPS",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaNegocioIPS\\CapaNegocioIPS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaNegocioBM\\CapaNegocioBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaNegocioBM\\CapaNegocioBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaDatosIPS\\CapaDatosIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaDatosIPS\\CapaDatosIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaEntidadIPS\\CapaEntidadIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaEntidadZP\\CapaEntidadZP.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaNegocioZP\\CapaNegocioZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaNegocioZP\\CapaNegocioZP.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj",
+        "projectName": "CapaDatosOperaciones",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_CONSUMO_WS_OPERADORv2022_1\\ServiciosApi\\ServiciosApi.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_CONSUMO_WS_OPERADORv2022_1\\ServiciosApi\\ServiciosApi.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDatosOperaciones\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj",
+        "projectName": "CapaDtoOperaciones",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj",
+        "projectName": "CapNegocioOperaciones",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_OPERACIONESv2022_1\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj",
+        "projectName": "Util",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaDatosBM\\CapaDatosBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaDatosBM\\CapaDatosBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaDatosIPS\\CapaDatosIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaDatosIPS\\CapaDatosIPS.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaDatosZP\\CapaDatosZP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaDatosZP\\CapaDatosZP.csproj",
+        "projectName": "CapaDatosZP",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaDatosZP\\CapaDatosZP.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaEntidadZP\\CapaEntidadZP.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaDatosZP\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaEntidadZP\\CapaEntidadZP.csproj",
+        "projectName": "CapaEntidadZP",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaEntidadZP\\CapaEntidadZP.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaNegocioZP\\CapaNegocioZP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaNegocioZP\\CapaNegocioZP.csproj",
+        "projectName": "CapaNegocioZP",
+        "projectPath": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaNegocioZP\\CapaNegocioZP.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaDatosZP\\CapaDatosZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaDatosZP\\CapaDatosZP.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaEntidadZP\\CapaEntidadZP.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\DLL_ZONAPRIMARIA\\CapaNegocioZP\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaDatosTracking\\CapaDatosTracking.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaDatosTracking\\CapaDatosTracking.csproj",
+        "projectName": "CapaDatosTracking",
+        "projectPath": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaDatosTracking\\CapaDatosTracking.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaEntidadTracking\\CapaEntidadTracking.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaEntidadTracking\\CapaEntidadTracking.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaEntidadTracking\\CapaEntidadTracking.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaEntidadTracking\\CapaEntidadTracking.csproj",
+        "projectName": "CapaEntidadTracking",
+        "projectPath": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaEntidadTracking\\CapaEntidadTracking.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaNegocioTracking\\CapaNegocioTracking.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaNegocioTracking\\CapaNegocioTracking.csproj",
+        "projectName": "CapaNegocioTracking",
+        "projectPath": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaNegocioTracking\\CapaNegocioTracking.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaNegocioBM\\CapaNegocioBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_BMv2022_1\\CapaNegocioBM\\CapaNegocioBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaDatosTracking\\CapaDatosTracking.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaDatosTracking\\CapaDatosTracking.csproj"
+              },
+              "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaEntidadTracking\\CapaEntidadTracking.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaEntidadTracking\\CapaEntidadTracking.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaNegocioTracking\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\MOD_SERVICIOS_WEB_APIv2022_1\\Servicios\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\MOD_SERVICIOS_WEB_APIv2022_1\\Servicios\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\FUENTES_SPE\\MOD_SERVICIOS_WEB_APIv2022_1\\Servicios\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\.nuget\\packages\\",
+        "outputPath": "C:\\FUENTES_SPE\\MOD_SERVICIOS_WEB_APIv2022_1\\Servicios\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero.SERVICIOPOSTAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_ENVIOS_SPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaEntidadIPS\\CapaEntidadIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaNegocioIPS\\CapaNegocioIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_IPSv2022_1\\CapaNegocioIPS\\CapaNegocioIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\DLL_UTILv2022_1\\Util\\Util.csproj"
+              },
+              "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaNegocioTracking\\CapaNegocioTracking.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\MOD_API_TRACKING\\CapaNegocioTracking\\CapaNegocioTracking.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

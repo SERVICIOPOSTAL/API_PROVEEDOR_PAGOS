@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiProveedorPagos</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.EnviosController.ConsultarValorPagar(System.String)">
+            <summary>
+            Consultar valor a pagar de tasa SPE
+            </summary>
+            <param name="codigo_envio"> Código de envío a consultar</param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.EnviosController.ReversoPagoTerceros(CapaEntidadBM.RegistrarPagoDTO)">
+            <summary>
+            Reversar Pagos realizados por Terceros
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.EnviosController.RegistroPagoTerceros(CapaEntidadBM.RegistrarPagoDTO)">
+            <summary>
+            Registrar Pagos realizados por Terceros
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.EnviosController.ConsultarPagosTeceros(System.DateTime)">
+            <summary>
+            Consultar Pago realizados por Terceros
+            </summary>
+            <param name="fechaPago"> Fecha de Pago</param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.UsuariosController.Login(WebApi.Models.Dtos.UsuarioAuthLoginDto)">
+            <summary>
+            Acceso/Autenticación de usuario
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,53 @@
+{
+  "IPS": {
+    "Workstation": "SERVIENTREGA",
+    "Usuario": "SERVIENTREGA",
+    "Dominio": "SERVICIOPOSTAL"
+  },
+  "EVENTOS": [
+    {
+      "Evento:": "Generado por Pago SPE",
+      "Codigo": "1122"
+    },
+    {
+      "Evento:": "Ingresando de Recoleccion a CL",
+      "Codigo": "1122"
+    },
+    {
+      "Evento:": "Embarcando a Vehiculo de Operativo CL",
+      "Codigo": "1122"
+    },
+    {
+      "Evento": "En Ruta a Centro Logistico CL",
+      "Codigo": "1122"
+    },
+    {
+      "Evento": "Ingresando Operativo a Centro Logistico CL",
+      "Codigo": "1122"
+    },
+    {
+      "Evento": "Embarcando a Vehiculo de Distribucion",
+      "Codigo": "1122"
+    },
+    {
+      "Evento": "En Distribucion a Cliente",
+      "Codigo": "1122"
+    },
+    {
+      "Evento": "Reportado Entregado en App",
+      "Codigo": "1122"
+    },
+    {
+      "Evento": "Certificacion de Prueba de Entrega CL",
+      "Codigo": "1122"
+    },
+    {
+      "Evento": "Entrega Digitalizada en Centro Logistico CL",
+      "Codigo": "1122"
+    }
+    
+  ]
+
+
+}
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiProveedorPagos.props" />
+</Project>

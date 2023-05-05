@@ -1,0 +1,576 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\WebApiProveedorPagos.csproj": {}
+  },
+  "projects": {
+    "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj",
+        "projectName": "CapaDatosBM",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaDatosBM\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj",
+        "projectName": "CapaEntidadBM",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj",
+        "projectName": "CapaNegocioBM",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaDatosBM\\CapaDatosBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaNegocioBM\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj",
+        "projectName": "CapaDatosEnviosSPE",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj",
+        "projectName": "CapaEntidadEnviosSPE",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj",
+        "projectName": "CapaNegocioEnviosSPE",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj",
+        "projectName": "CapaDatosIPS",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaDatosIPS\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj",
+        "projectName": "CapaEntidadIPS",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj",
+        "projectName": "CapaNegocioIPS",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj",
+        "projectName": "CapaDatosOperaciones",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDatosOperaciones\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj",
+        "projectName": "CapaDtoOperaciones",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj",
+        "projectName": "CapNegocioOperaciones",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapNegocioOperaciones\\CapNegocioOperaciones.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDatosOperaciones\\CapaDatosOperaciones.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Operaciones\\CapaDtoOperaciones\\CapaDtoOperaciones.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj",
+        "projectName": "CapaEntidadTracking",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Tracking\\CapaEntidadTracking\\CapaEntidadTracking.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj",
+        "projectName": "Utilitarios",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaEntidadBM\\CapaEntidadBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\WebApiProveedorPagos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\WebApiProveedorPagos.csproj",
+        "projectName": "WebApiProveedorPagos",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\WebApiProveedorPagos.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero\\.nuget\\packages\\",
+        "outputPath": "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaDatosZP\\CapaDatosZP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaDatosZP\\CapaDatosZP.csproj",
+        "projectName": "CapaDatosZP",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaDatosZP\\CapaDatosZP.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaDatosZP\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj",
+        "projectName": "CapaEntidadZP",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj",
+        "projectName": "CapaNegocioZP",
+        "projectPath": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaNegocioZP\\CapaNegocioZP.csproj",
+        "packagesPath": "C:\\Users\\carlos.romero\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\carlos.romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaDatosIPS\\CapaDatosIPS.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaDatosZP\\CapaDatosZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaDatosZP\\CapaDatosZP.csproj"
+              },
+              "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj": {
+                "projectPath": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaEntidadZP\\CapaEntidadZP.csproj"
+              }
+            }
+          }
+        },
+        "packagesConfigPath": "C:\\FUENTES_SPE\\API_SPE\\ZonaPrimaria\\CapaNegocioZP\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

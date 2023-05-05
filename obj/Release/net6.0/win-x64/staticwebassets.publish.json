@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "k9zlvYrUbbyj2UZZbfsg15zyLgIrRGmOq5OmCCXzuTI=",
+  "Source": "WebApiProveedorPagos",
+  "BasePath": "_content/WebApiProveedorPagos",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiProveedorPagos\\wwwroot",
+      "Source": "WebApiProveedorPagos",
+      "ContentRoot": "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\wwwroot\\",
+      "BasePath": "_content/WebApiProveedorPagos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
