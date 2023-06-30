@@ -651,6 +651,7 @@
       "CapaNegocioBM/1.0.0": {
         "dependencies": {
           "CapaDatosBM": "1.0.0",
+          "CapaDatosIPS": "1.0.0",
           "CapaDatosOperaciones": "1.0.0",
           "CapaDtoOperaciones": "1.0.0",
           "CapaEntidadBM": "1.0.0",
