@@ -28,13 +28,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\BaseMaestra\CapaNegocioBM\CapaNegocioBM.csproj" />
-    <ProjectReference Include="..\..\EnviosSPE\CapaDatosEnviosSPE\CapaDatosEnviosSPE.csproj" />
-    <ProjectReference Include="..\..\EnviosSPE\CapaEntidadEnviosSPE\CapaEntidadEnviosSPE.csproj" />
-    <ProjectReference Include="..\..\EnviosSPE\CapaNegocioEnviosSPE\CapaNegocioEnviosSPE.csproj" />
-    <ProjectReference Include="..\..\IPS\CapaEntidadIPS\CapaEntidadIPS.csproj" />
-    <ProjectReference Include="..\..\IPS\CapaNegocioIPS\CapaNegocioIPS.csproj" />
-    <ProjectReference Include="..\..\Utilitarios\Util\Utilitarios.csproj" />
+    <ProjectReference Include="..\..\DLL_PRINCIPALES\BASE_MAESTRA\CapaNegocioBM\CapaNegocioBM.csproj" />
+    
   </ItemGroup>
 
 </Project>

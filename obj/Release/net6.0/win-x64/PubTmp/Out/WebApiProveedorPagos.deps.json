@@ -11,18 +11,12 @@
         "dependencies": {
           "AutoMapper": "11.0.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
-          "CapaDatosEnviosSPE": "1.0.0",
-          "CapaEntidadEnviosSPE": "1.0.0",
-          "CapaEntidadIPS": "1.0.0",
           "CapaNegocioBM": "1.0.0",
-          "CapaNegocioEnviosSPE": "1.0.0",
-          "CapaNegocioIPS": "1.0.0",
           "EntityFramework": "6.4.4",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.23",
           "Microsoft.EntityFrameworkCore": "6.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3",
-          "Swashbuckle.AspNetCore": "6.3.0",
-          "Utilitarios": "1.0.0"
+          "Swashbuckle.AspNetCore": "6.3.0"
         },
         "runtime": {
           "WebApiProveedorPagos.dll": {}
@@ -483,8 +477,7 @@
       },
       "CapaDatosBM/1.0.0": {
         "dependencies": {
-          "CapaEntidadBM": "1.0.0",
-          "CapaEntidadTracking": "1.0.0"
+          "CapaEntidadBM": "1.0.0"
         },
         "runtime": {
           "CapaDatosBM.dll": {}
@@ -540,11 +533,6 @@
       "CapaEntidadIPS/1.0.0": {
         "runtime": {
           "CapaEntidadIPS.dll": {}
-        }
-      },
-      "CapaEntidadTracking/1.0.0": {
-        "runtime": {
-          "CapaEntidadTracking.dll": {}
         }
       },
       "CapaEntidadZP/1.0.0": {
@@ -1109,11 +1097,6 @@
       "sha512": ""
     },
     "CapaEntidadIPS/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CapaEntidadTracking/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

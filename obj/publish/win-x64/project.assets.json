@@ -992,8 +992,7 @@
       "CapaDatosBM/1.0.0": {
         "type": "project",
         "dependencies": {
-          "CapaEntidadBM": "1.0.0",
-          "CapaEntidadTracking": "1.0.0"
+          "CapaEntidadBM": "1.0.0"
         },
         "compile": {
           "bin/placeholder/CapaDatosBM.dll": {}
@@ -1084,15 +1083,6 @@
         },
         "runtime": {
           "bin/placeholder/CapaEntidadIPS.dll": {}
-        }
-      },
-      "CapaEntidadTracking/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/CapaEntidadTracking.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CapaEntidadTracking.dll": {}
         }
       },
       "CapaEntidadZP/1.0.0": {
@@ -2069,8 +2059,7 @@
       "CapaDatosBM/1.0.0": {
         "type": "project",
         "dependencies": {
-          "CapaEntidadBM": "1.0.0",
-          "CapaEntidadTracking": "1.0.0"
+          "CapaEntidadBM": "1.0.0"
         },
         "compile": {
           "bin/placeholder/CapaDatosBM.dll": {}
@@ -2161,15 +2150,6 @@
         },
         "runtime": {
           "bin/placeholder/CapaEntidadIPS.dll": {}
-        }
-      },
-      "CapaEntidadTracking/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/CapaEntidadTracking.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CapaEntidadTracking.dll": {}
         }
       },
       "CapaEntidadZP/1.0.0": {
@@ -3925,106 +3905,95 @@
     },
     "CapaDatosBM/1.0.0": {
       "type": "project",
-      "path": "../../BaseMaestra/CapaDatosBM/CapaDatosBM.csproj",
-      "msbuildProject": "../../BaseMaestra/CapaDatosBM/CapaDatosBM.csproj"
+      "path": "../../DLL_PRINCIPALES/BASE_MAESTRA/CapaDatosBM/CapaDatosBM.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/BASE_MAESTRA/CapaDatosBM/CapaDatosBM.csproj"
     },
     "CapaDatosEnviosSPE/1.0.0": {
       "type": "project",
-      "path": "../../EnviosSPE/CapaDatosEnviosSPE/CapaDatosEnviosSPE.csproj",
-      "msbuildProject": "../../EnviosSPE/CapaDatosEnviosSPE/CapaDatosEnviosSPE.csproj"
+      "path": "../../DLL_PRINCIPALES/ENVIOS_SPE/CapaDatosEnviosSPE/CapaDatosEnviosSPE.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/ENVIOS_SPE/CapaDatosEnviosSPE/CapaDatosEnviosSPE.csproj"
     },
     "CapaDatosIPS/1.0.0": {
       "type": "project",
-      "path": "../../IPS/CapaDatosIPS/CapaDatosIPS.csproj",
-      "msbuildProject": "../../IPS/CapaDatosIPS/CapaDatosIPS.csproj"
+      "path": "../../DLL_PRINCIPALES/IPS/CapaDatosIPS/CapaDatosIPS.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/IPS/CapaDatosIPS/CapaDatosIPS.csproj"
     },
     "CapaDatosOperaciones/1.0.0": {
       "type": "project",
-      "path": "../../Operaciones/CapaDatosOperaciones/CapaDatosOperaciones.csproj",
-      "msbuildProject": "../../Operaciones/CapaDatosOperaciones/CapaDatosOperaciones.csproj"
+      "path": "../../DLL_PRINCIPALES/OPERACIONES/CapaDatosOperaciones/CapaDatosOperaciones.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/OPERACIONES/CapaDatosOperaciones/CapaDatosOperaciones.csproj"
     },
     "CapaDatosZP/1.0.0": {
       "type": "project",
-      "path": "../../ZonaPrimaria/CapaDatosZP/CapaDatosZP.csproj",
-      "msbuildProject": "../../ZonaPrimaria/CapaDatosZP/CapaDatosZP.csproj"
+      "path": "../../DLL_PRINCIPALES/ZONA_PRIMARIA/CapaDatosZP/CapaDatosZP.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/ZONA_PRIMARIA/CapaDatosZP/CapaDatosZP.csproj"
     },
     "CapaDtoOperaciones/1.0.0": {
       "type": "project",
-      "path": "../../Operaciones/CapaDtoOperaciones/CapaDtoOperaciones.csproj",
-      "msbuildProject": "../../Operaciones/CapaDtoOperaciones/CapaDtoOperaciones.csproj"
+      "path": "../../DLL_PRINCIPALES/OPERACIONES/CapaDtoOperaciones/CapaDtoOperaciones.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/OPERACIONES/CapaDtoOperaciones/CapaDtoOperaciones.csproj"
     },
     "CapaEntidadBM/1.0.0": {
       "type": "project",
-      "path": "../../BaseMaestra/CapaEntidadBM/CapaEntidadBM.csproj",
-      "msbuildProject": "../../BaseMaestra/CapaEntidadBM/CapaEntidadBM.csproj"
+      "path": "../../DLL_PRINCIPALES/BASE_MAESTRA/CapaEntidadBM/CapaEntidadBM.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/BASE_MAESTRA/CapaEntidadBM/CapaEntidadBM.csproj"
     },
     "CapaEntidadEnviosSPE/1.0.0": {
       "type": "project",
-      "path": "../../EnviosSPE/CapaEntidadEnviosSPE/CapaEntidadEnviosSPE.csproj",
-      "msbuildProject": "../../EnviosSPE/CapaEntidadEnviosSPE/CapaEntidadEnviosSPE.csproj"
+      "path": "../../DLL_PRINCIPALES/ENVIOS_SPE/CapaEntidadEnviosSPE/CapaEntidadEnviosSPE.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/ENVIOS_SPE/CapaEntidadEnviosSPE/CapaEntidadEnviosSPE.csproj"
     },
     "CapaEntidadIPS/1.0.0": {
       "type": "project",
-      "path": "../../IPS/CapaEntidadIPS/CapaEntidadIPS.csproj",
-      "msbuildProject": "../../IPS/CapaEntidadIPS/CapaEntidadIPS.csproj"
-    },
-    "CapaEntidadTracking/1.0.0": {
-      "type": "project",
-      "path": "../../Tracking/CapaEntidadTracking/CapaEntidadTracking.csproj",
-      "msbuildProject": "../../Tracking/CapaEntidadTracking/CapaEntidadTracking.csproj"
+      "path": "../../DLL_PRINCIPALES/IPS/CapaEntidadIPS/CapaEntidadIPS.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/IPS/CapaEntidadIPS/CapaEntidadIPS.csproj"
     },
     "CapaEntidadZP/1.0.0": {
       "type": "project",
-      "path": "../../ZonaPrimaria/CapaEntidadZP/CapaEntidadZP.csproj",
-      "msbuildProject": "../../ZonaPrimaria/CapaEntidadZP/CapaEntidadZP.csproj"
+      "path": "../../DLL_PRINCIPALES/ZONA_PRIMARIA/CapaEntidadZP/CapaEntidadZP.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/ZONA_PRIMARIA/CapaEntidadZP/CapaEntidadZP.csproj"
     },
     "CapaNegocioBM/1.0.0": {
       "type": "project",
-      "path": "../../BaseMaestra/CapaNegocioBM/CapaNegocioBM.csproj",
-      "msbuildProject": "../../BaseMaestra/CapaNegocioBM/CapaNegocioBM.csproj"
+      "path": "../../DLL_PRINCIPALES/BASE_MAESTRA/CapaNegocioBM/CapaNegocioBM.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/BASE_MAESTRA/CapaNegocioBM/CapaNegocioBM.csproj"
     },
     "CapaNegocioEnviosSPE/1.0.0": {
       "type": "project",
-      "path": "../../EnviosSPE/CapaNegocioEnviosSPE/CapaNegocioEnviosSPE.csproj",
-      "msbuildProject": "../../EnviosSPE/CapaNegocioEnviosSPE/CapaNegocioEnviosSPE.csproj"
+      "path": "../../DLL_PRINCIPALES/ENVIOS_SPE/CapaNegocioEnviosSPE/CapaNegocioEnviosSPE.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/ENVIOS_SPE/CapaNegocioEnviosSPE/CapaNegocioEnviosSPE.csproj"
     },
     "CapaNegocioIPS/1.0.0": {
       "type": "project",
-      "path": "../../IPS/CapaNegocioIPS/CapaNegocioIPS.csproj",
-      "msbuildProject": "../../IPS/CapaNegocioIPS/CapaNegocioIPS.csproj"
+      "path": "../../DLL_PRINCIPALES/IPS/CapaNegocioIPS/CapaNegocioIPS.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/IPS/CapaNegocioIPS/CapaNegocioIPS.csproj"
     },
     "CapaNegocioZP/1.0.0": {
       "type": "project",
-      "path": "../../ZonaPrimaria/CapaNegocioZP/CapaNegocioZP.csproj",
-      "msbuildProject": "../../ZonaPrimaria/CapaNegocioZP/CapaNegocioZP.csproj"
+      "path": "../../DLL_PRINCIPALES/ZONA_PRIMARIA/CapaNegocioZP/CapaNegocioZP.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/ZONA_PRIMARIA/CapaNegocioZP/CapaNegocioZP.csproj"
     },
     "CapNegocioOperaciones/1.0.0": {
       "type": "project",
-      "path": "../../Operaciones/CapNegocioOperaciones/CapNegocioOperaciones.csproj",
-      "msbuildProject": "../../Operaciones/CapNegocioOperaciones/CapNegocioOperaciones.csproj"
+      "path": "../../DLL_PRINCIPALES/OPERACIONES/CapNegocioOperaciones/CapNegocioOperaciones.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/OPERACIONES/CapNegocioOperaciones/CapNegocioOperaciones.csproj"
     },
     "Utilitarios/1.0.0": {
       "type": "project",
-      "path": "../../Utilitarios/Util/Utilitarios.csproj",
-      "msbuildProject": "../../Utilitarios/Util/Utilitarios.csproj"
+      "path": "../../DLL_PRINCIPALES/UTILITARIOS/Utilitarios.csproj",
+      "msbuildProject": "../../DLL_PRINCIPALES/UTILITARIOS/Utilitarios.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper >= 11.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 11.0.0",
-      "CapaDatosEnviosSPE >= 1.0.0",
-      "CapaEntidadEnviosSPE >= 1.0.0",
-      "CapaEntidadIPS >= 1.0.0",
       "CapaNegocioBM >= 1.0.0",
-      "CapaNegocioEnviosSPE >= 1.0.0",
-      "CapaNegocioIPS >= 1.0.0",
       "EntityFramework >= 6.4.4",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 3.1.23",
       "Microsoft.EntityFrameworkCore >= 6.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3",
-      "Swashbuckle.AspNetCore >= 6.3.0",
-      "Utilitarios >= 1.0.0"
+      "Swashbuckle.AspNetCore >= 6.3.0"
     ]
   },
   "packageFolders": {
@@ -4033,11 +4002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\WebApiProveedorPagos.csproj",
+      "projectUniqueName": "C:\\FUENTES_SPE\\API_SPE\\WEBAPI_PROVEEDOR_PAGOS\\WebApiProveedorPagos.csproj",
       "projectName": "WebApiProveedorPagos",
-      "projectPath": "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\WebApiProveedorPagos.csproj",
+      "projectPath": "C:\\FUENTES_SPE\\API_SPE\\WEBAPI_PROVEEDOR_PAGOS\\WebApiProveedorPagos.csproj",
       "packagesPath": "C:\\Users\\carlos.romero\\.nuget\\packages\\",
-      "outputPath": "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\obj\\publish\\win-x64\\",
+      "outputPath": "C:\\FUENTES_SPE\\API_SPE\\WEBAPI_PROVEEDOR_PAGOS\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlos.romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4054,26 +4023,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj": {
-              "projectPath": "C:\\FUENTES_SPE\\API_SPE\\BaseMaestra\\CapaNegocioBM\\CapaNegocioBM.csproj"
-            },
-            "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj": {
-              "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaDatosEnviosSPE\\CapaDatosEnviosSPE.csproj"
-            },
-            "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj": {
-              "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaEntidadEnviosSPE\\CapaEntidadEnviosSPE.csproj"
-            },
-            "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj": {
-              "projectPath": "C:\\FUENTES_SPE\\API_SPE\\EnviosSPE\\CapaNegocioEnviosSPE\\CapaNegocioEnviosSPE.csproj"
-            },
-            "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj": {
-              "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaEntidadIPS\\CapaEntidadIPS.csproj"
-            },
-            "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj": {
-              "projectPath": "C:\\FUENTES_SPE\\API_SPE\\IPS\\CapaNegocioIPS\\CapaNegocioIPS.csproj"
-            },
-            "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj": {
-              "projectPath": "C:\\FUENTES_SPE\\API_SPE\\Utilitarios\\Util\\Utilitarios.csproj"
+            "C:\\FUENTES_SPE\\DLL_PRINCIPALES\\BASE_MAESTRA\\CapaNegocioBM\\CapaNegocioBM.csproj": {
+              "projectPath": "C:\\FUENTES_SPE\\DLL_PRINCIPALES\\BASE_MAESTRA\\CapaNegocioBM\\CapaNegocioBM.csproj"
             }
           }
         }

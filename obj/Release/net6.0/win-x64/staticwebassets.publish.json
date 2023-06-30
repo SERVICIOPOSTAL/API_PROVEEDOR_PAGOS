@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k9zlvYrUbbyj2UZZbfsg15zyLgIrRGmOq5OmCCXzuTI=",
+  "Hash": "mb7eo6qNasYu/VyqDKyeOj3/wlNSyHSWNJCcHfZik54=",
   "Source": "WebApiProveedorPagos",
   "BasePath": "_content/WebApiProveedorPagos",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "WebApiProveedorPagos\\wwwroot",
       "Source": "WebApiProveedorPagos",
-      "ContentRoot": "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\wwwroot\\",
+      "ContentRoot": "C:\\FUENTES_SPE\\API_SPE\\WEBAPI_PROVEEDOR_PAGOS\\wwwroot\\",
       "BasePath": "_content/WebApiProveedorPagos",
       "Pattern": "**"
     }

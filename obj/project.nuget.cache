@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fQVKOZStQ7863iS8jfI9jq4q8o/W4Vlt+SVCGbzTVMnfD09Rkcpg9tIhtl78NaoByJkEKTlr5FRG/e/6diV8pQ==",
+  "dgSpecHash": "Yxm8yKCCzK0kcz7YGEHvTaAOTLcyIodIMxqP6HmD+elzg/IiTlkQgq+eMFnc3iC5NXBVh0w8qXePwBbLaDbzrg==",
   "success": true,
-  "projectFilePath": "C:\\FUENTES_SPE\\API_SPE\\WebApiProveedorPagos\\ServiciosProveedorPagos\\WebApiProveedorPagos.csproj",
+  "projectFilePath": "C:\\FUENTES_SPE\\API_SPE\\WEBAPI_PROVEEDOR_PAGOS\\WebApiProveedorPagos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlos.romero\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\carlos.romero\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
